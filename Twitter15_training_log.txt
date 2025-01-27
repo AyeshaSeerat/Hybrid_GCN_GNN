@@ -1,0 +1,1 @@
+Epoch	Train_Loss	Train_Accuracy	Val_Loss	Val_Accuracy
